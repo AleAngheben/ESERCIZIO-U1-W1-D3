@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@600;700&display=swap");
+
+body {
+  width: 100%;
+  margin: 0;
+  font-family: "Lora", serif;
+}
+
+.image-logo {
+  width: 15%;
+  margin-inline: auto;
+}
+
+.image-logo img {
+  width: 100%;
+}
+
+.page-description {
+  padding-top: 1rem;
+  width: 100%;
+  text-align: center;
+  background-color: #feff7a69;
+  border-top: solid;
+  border-color: #ffea73;
+}
+main {
+  width: 50%;
+  padding-top: 3rem;
+  margin-inline: auto;
+}
+
+header .page-description {
+  text-align: center;
+  padding: 9px;
+  font-size: small;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 1rem;
+  font-size: 44px;
+}
+.sub-title {
+  font-size: 17px;
+}
+
+.cont-video img {
+  width: 100%;
+  border-radius: 10px;
+}
+.desc-video {
+  text-align: center;
+  padding-top: 1rem;
+  color: darkgray;
+}
+
+aside {
+  border-left: solid;
+  padding-left: 1rem;
+  border-color: #ffea73;
+}
+
+aside p {
+  color: red;
+}
+
+aside p a {
+  color: #39bda6;
+}
+
+hr.colored {
+  background-color: aquamarine;
+  height: 1px;
+  border: none;
+}
+
+main .ingredients ul li {
+  padding: 0.4rem;
+}
+main .method p {
+  padding-left: 2.2rem;
+}
+
+main .method .sub-method {
+  padding-left: 1.3rem;
+}
+
+footer p a {
+  color: #39bda6;
+}
+
+footer {
+  width: 50%;
+  margin-inline: auto;
+  font-size: 13px;
+}
+
+.method p {
+  font-size: 13px;
+}
